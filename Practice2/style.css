@@ -1,0 +1,84 @@
+
+*{
+    margin:0;
+
+}
+body
+{
+    font-family: 'Lato', sans-serif;
+}
+
+nav
+{
+    color: lightslategrey;
+    font-size: 1.1rem;
+    line-height: 2;
+    margin:1rem;
+}
+p
+{
+    font-size: 1.1rem;
+    line-height: 2;
+    margin:1rem;
+}
+h2,h3
+{
+    margin: 1rem;
+}
+h2
+{
+    margin:5rem;
+    font-size: 2rem;
+}
+h3
+{
+    font-size: 1.5rem;
+}
+/*utilities*/
+.site-header
+{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    height: 40vh;
+}
+.site-header p
+{
+ margin-top: 2rem;
+ font-size:1.5rem;
+
+}
+.site-header h1
+{
+    padding-top: 2rem;
+    font-size: 2.5rem;
+}
+.container
+{
+    color:rgb(0, 0, 0) ;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+/*icons*/
+.fa-html5
+{
+    font-size: 3rem;
+    color: orangered;
+}
+.fa-css3-alt
+{
+font-size: 3rem;
+}
+.fa-js-square
+{
+font-size: 3rem;
+}
+.fa-python
+{
+font-size: 3rem;
+}
+.fa-map-marker-alt
+{
+    color: yellow;
+}
